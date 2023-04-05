@@ -4,7 +4,7 @@ This is a simple readme file. going to have couple of git commands for beginners
 
 # Heading 2
 
-# On a branch adding this to create a conflict
+# On a master branch adding this 
 
 
 
